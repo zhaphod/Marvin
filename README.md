@@ -34,5 +34,7 @@ Right now this project is an individual effort. Depending on the progress contri
 * Implement tracker communication
 * Implement download of a single torrent file
 
-This content is released under the (http://opensource.org/licenses/MIT) MIT License.
+# License
+
+Copyright (c) 2013-2014 Srinivas Kowtal. Licensed under [the MIT license](http://opensource.org/licenses/MIT).
 
